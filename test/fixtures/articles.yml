@@ -1,0 +1,13 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  title: Hello world
+  content: lorem ipso
+  slug: hello-world
+  visibility: public
+
+two:
+  title: MyString
+  content: MyText
+  slug: MyString
+  visibility: MyString
